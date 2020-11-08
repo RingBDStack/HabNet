@@ -38,4 +38,7 @@ unzip glove.6B.zip
 python train.py
 ```
 
+## Citation
+If you use our code or dataset, please cite our COLING 2020 paper, the arxiv version of our paper is available at: http://arxiv.org/abs/2011.00802
+
 
