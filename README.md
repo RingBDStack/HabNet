@@ -39,6 +39,9 @@ python train.py
 ```
 
 ## Citation
-If you use our code or dataset, please cite our COLING 2020 paper, the arxiv version of our paper is available at: http://arxiv.org/abs/2011.00802
+If you use our code or dataset, please cite our COLING 2020 paper, the arxiv version of our paper is available at: https://www.aclweb.org/anthology/2020.coling-main.555/
+
+## Acknowledgements
+Our code is based on [DiSAN](https://github.com/taoshen58/DiSAN), we thank the authors of DiSAN for their open-source code.
 
 
