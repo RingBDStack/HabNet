@@ -12,7 +12,7 @@ The OpenReview dataset (processed) collected by us are in the folder "OpenReview
 
 ## Requirements
 
-- Python 3
+- Python 3.6.8
 - Tensorflow = 1.13.1
 - Pandas
 - Nltk
@@ -39,7 +39,27 @@ python train.py
 ```
 
 ## Citation
-If you use our code or dataset, please cite our COLING 2020 paper, the arxiv version of our paper is available at: https://www.aclweb.org/anthology/2020.coling-main.555/
+If you use our code or dataset, please cite our COLING 2020 paper, our paper is available at: https://www.aclweb.org/anthology/2020.coling-main.555/
+
+**Cite this paper using BibTex:**
+@inproceedings{deng-etal-2020-hierarchical,
+    title = "Hierarchical Bi-Directional Self-Attention Networks for Paper Review Rating Recommendation",
+    author = "Deng, Zhongfen  and
+      Peng, Hao  and
+      Xia, Congying  and
+      Li, Jianxin  and
+      He, Lifang  and
+      Yu, Philip",
+    booktitle = "Proceedings of the 28th International Conference on Computational Linguistics",
+    month = dec,
+    year = "2020",
+    address = "Barcelona, Spain (Online)",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.coling-main.555",
+    doi = "10.18653/v1/2020.coling-main.555",
+    pages = "6302--6314",
+}
+
 
 ## Acknowledgements
 Our code is based on [DiSAN](https://github.com/taoshen58/DiSAN), we thank the authors of DiSAN for their open-source code.
